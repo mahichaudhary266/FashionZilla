@@ -1,8 +1,8 @@
-# Introduction
+# FashionZilla
 
 This is an E-Commerce website  that aims to sell branded and trending products for youths at their doorstep.
 
-# Must have features
+## Must have features
 
 1. Sign In/Sign up page
 2. Product details
@@ -13,7 +13,7 @@ This is an E-Commerce website  that aims to sell branded and trending products f
 7. Payment Option
 8. Responsiveness
 
-# Good to have features
+## Good to have features
 
 1. Variety of products
 2. Related products
