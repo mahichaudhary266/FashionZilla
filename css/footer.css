@@ -1,0 +1,41 @@
+@font-face
+{
+    font-family: avenir;
+    src: url("../fonts/Avenir.ttf");
+}
+footer
+{
+  position: relative;
+  bottom: 0;
+  background-color: #000000;
+  display: block;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  padding: 40px 0;
+  width: 100%;
+  margin-left: -8px;
+  height: 80px;
+}
+.sm li
+{
+  display: inline;
+  padding: 0px 1.5px;
+  align: center;
+  cursor: pointer;
+  width: 50%
+}
+.cr
+{
+  padding-top: 20px;
+  padding: 0px 1px 0 3%;
+  font-family: avenir, sans-serif;
+  font-size: 14px;
+  font-stretch: 100%;
+  font-weight: 400;
+  display: inline-flex;
+  text-align: center;
+  overflow-wrap: break-word;
+  color: #FFFFFF;
+  vertical-align: baseline;
+}
